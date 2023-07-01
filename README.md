@@ -28,4 +28,5 @@ This repository contains a Jupyter Notebook file that implements a machine learn
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-For more details and a step-by-step guide, refer to the [`Jupyter Notebook file`](https://github.com/AryanKaushal2002/Diabetes-Prediction-Model/blob/main/Diabetes%20prediction%20model/Diabetes_Prediction_Model.ipynb) in this repository.
+
+*For more details and a step-by-step guide, refer to the [`Jupyter Notebook file`](https://github.com/AryanKaushal2002/Diabetes-Prediction-Model/blob/main/Diabetes%20prediction%20model/Diabetes_Prediction_Model.ipynb) in this repository.*
